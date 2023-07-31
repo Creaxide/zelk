@@ -68,9 +68,9 @@
   --background-accent-gradient: var(--background-2);
   --background-floating: var(--background-1);
   --background-mentioned: #bde6fb10;
-  --background-mentioned-hover: #bde6fb15;
+  --background-mentioned-hover: #312633;
   /* modifiers */
-  --background-modifier-hover: #262e33;
+  --background-modifier-hover: #2e2633;
   --background-modifier-active: #495a63;
   --background-modifier-selected: var(--accent-color);
   --background-modifier-accent: transparent;
@@ -97,10 +97,10 @@
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
   --button-background: #2a3439;
-  --button-background-hover: #354249;
+  --button-background-hover: #443549;
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
-  --button-accent-hover: #d2f3ff;
+  --button-accent-hover: #f9d2ff;
   --button-accent-active: #8dd4f8;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
